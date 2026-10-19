@@ -28,13 +28,13 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-🎓 Computer Science Student<br>
-💻 MERN Stack Developer<br>
-🌐 Passionate about Full Stack Web Development<br>
-🧠 Currently improving my Data Structures & Algorithms skills<br>
-⚙️ Building applications with React, Node.js, Express & MongoDB<br>
-🚀 Interested in building scalable and practical web applications<br>
-📚 Always learning and exploring new technologies
+  🎓 Computer Science Student<br>
+  💻 MERN Stack Developer<br>
+  🌐 Passionate about Full Stack Web Development<br>
+  🧠 Currently improving my Data Structures & Algorithms skills<br>
+  ⚙️ Building applications with React, Node.js, Express & MongoDB<br>
+  🚀 Interested in building scalable and practical web applications<br>
+  📚 Always learning and exploring new technologies
 </p>
 
 ---
@@ -75,24 +75,27 @@
 
 <h1 align="center">🚀 Featured Projects</h1>
 
-### 🚀 DeployTrack
-A MERN-based deployment management platform designed to manage releases, environments, approvals, deployment health and rollback history.
+### 🎓 Classence
 
-**Tech Stack:** React, Node.js, Express.js, MongoDB
+A full-stack classroom management platform designed to simplify academic collaboration between teachers and students with classroom management, attendance, invitations and real-time features.
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Socket.IO
 
 ---
 
 ### 💰 Budget Buddy
-A full-stack personal finance management application for managing transactions, budgets, financial goals and spending insights.
 
-**Tech Stack:** React, Node.js, Express.js, MongoDB
+A MERN-based personal finance management application for tracking transactions, managing budgets and financial goals, and understanding spending patterns.
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB
 
 ---
 
-### 🏡 WanderLust
-A full-stack accommodation listing platform with authentication, image uploads and interactive maps.
+### 🏥 MediCare
 
-**Tech Stack:** Node.js, Express.js, MongoDB, EJS, Passport.js, Cloudinary
+A modern healthcare web application designed to provide a clean and user-friendly experience for accessing healthcare-related services.
+
+**Tech Stack:** React.js, JavaScript, HTML, CSS
 
 ---
 
@@ -102,7 +105,6 @@ A full-stack accommodation listing platform with authentication, image uploads a
   <a href="https://leetcode.com/u/AdarshGupta0018/">
     <img src="https://img.shields.io/badge/LeetCode-AdarshGupta0018-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-
   <a href="https://www.codechef.com/users/adgupta18">
     <img src="https://img.shields.io/badge/CodeChef-adgupta18-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
@@ -110,34 +112,6 @@ A full-stack accommodation listing platform with authentication, image uploads a
 
 <p align="center">
   🧠 Practicing Data Structures & Algorithms using C++
-</p>
-
----
-
-<h1 align="center">📊 GitHub Stats</h1>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarshgh18&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshgh18&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<h1 align="center">🔥 GitHub Streak</h1>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=adarshgh18&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<h1 align="center">📈 Contribution Graph</h1>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshgh18&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
