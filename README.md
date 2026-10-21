@@ -119,7 +119,7 @@ A modern healthcare web application designed to provide a clean and user-friendl
 <h1 align="center">🌐 Portfolio</h1>
 
 <p align="center">
-  🚧 Personal Portfolio — Coming Soon
+  🌐 <a href="https://ad-portfolio-steel.vercel.app/"><strong>View My Portfolio</strong></a>
 </p>
 
 ---
